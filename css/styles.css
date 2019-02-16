@@ -1,0 +1,66 @@
+body {
+    background: #dddddd;
+    color: #000000;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2em;
+    padding-top: 70px;
+}
+
+nav {
+    background-color: #4837dd;
+    margin: 0px 0px 30px 0px;
+}
+
+.nav-item {
+    margin: 0px 5px;
+}
+nav a {
+    color: #fbf7f7;
+}
+
+a {
+    color: #4837dd;
+}
+
+a:hover {
+    color: #aaaaaa;
+}
+
+hr {
+    background-color: #4837dd;
+}
+
+.bullet {
+    font-size: 1.5em;
+}
+
+.smallbullet {
+    font-size: 1.2em;
+
+}
+
+.list p {
+    margin: 5px 0px;
+}
+
+.col {
+    text-align: center;
+}
+
+.tip {
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.active {
+    color: #aaaaaa;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #4837dd;
+}
